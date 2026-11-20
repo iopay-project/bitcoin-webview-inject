@@ -49,7 +49,7 @@ The first response should identify which of the three you are in before touching
 
 The temptation in all three is speed. Reinstalling feels like progress, and it is the one action that can turn a recoverable local fault into an unrecoverable one if the phrase was never written down. The guides place the backup check before every destructive step for that reason, not because reinstallation is dangerous in itself.
 
-## Guides for this part of the wallet
+## Guides for this part of the wallet.
 
 | Guide | What it answers |
 |---|---|
